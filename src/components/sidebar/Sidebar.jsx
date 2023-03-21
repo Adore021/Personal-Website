@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import "./sidebar.css";
 import Logo from "../../assets/logo.svg";
-import HH_Logo from "../../assets/HH-Logo-B.png"
+import HH_Logo from "../../assets/HH-Logo-B-2.svg"
 
 const Sidebar = () => {
     const [toggle, showMenu] = useState(false);
@@ -23,19 +23,19 @@ const Sidebar = () => {
 
                         <li className="nav__item">
                             <a href="#skills" className="nav__link">
-                                <i className="icon-list"></i>
+                                <i className="icon-grid"></i>
                             </a>
                         </li>
 
                         <li className="nav__item">
                             <a href="#projects" className="nav__link">
-                            <i className="icon-briefcase"></i>
+                            <i className="icon-folder-alt"></i>
                             </a>
                         </li>
 
                         <li className="nav__item">
                             <a href="#contact" className="nav__link">
-                            <i className="icon-bubble"></i>
+                            <i className="icon-bubbles"></i>
                             </a>
                         </li>
                     </ul>
@@ -43,7 +43,7 @@ const Sidebar = () => {
             </nav>
 
             <div className="nav__footer">
-                <span className="copyright">&copy; 2022 - 2023.</span>
+                <span className="copyright">&copy; 2023.</span>
             </div>
         </aside>
 

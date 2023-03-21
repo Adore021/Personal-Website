@@ -1,8 +1,10 @@
 import React from 'react'
 import './skill.css'
-import Image1 from '../../assets/service-1.svg';
-import Image2 from '../../assets/service-2.svg';
-import Image3 from '../../assets/service-3.svg';
+import Image1 from '../../assets/Icons/Web-design.svg';
+import Image2 from '../../assets/Icons/Asset 5.svg';
+import Image3 from '../../assets/Icons/Web-development.svg';
+import Image4 from '../../assets/Icons/Coding.svg';
+import Image5 from '../../assets/Icons/Portfolio.svg';
 
 const data = [
     {
@@ -28,31 +30,31 @@ const data = [
     },
     {
       id: 4,
-      image: Image3,
+      image: Image4,
       title: "Code",
       description:
         "Proficient in multiple programming languages, including C#, C++, Python, JavaScript, HTML, and CSS.",
     },
     {
       id: 5,
-      image: Image3,
+      image: Image5,
       title: "Design Tools",
       description:
         "Experienced in design tools such as Blender, Maya, C4D, Photoshop , and Illustrator.",
     },
     {
       id: 6,
-      image: Image3,
+      image: Image5,
       title: "Development Tools",
       description:
-        "Experienced in design tools such as Blender, Maya, C4D, Photoshop , and Illustrator.",
+        "Proficient in various development tools, including Android Studio, Unity, and Unreal Engine.",
     },
   ];
 
 const Skill = () => {
   return (
     <section className="services container section" id="skills">
-        <h2 className="section__title">Services</h2>
+        <h2 className="section__title">What can i do</h2>
 
         <div className="services__container grid">
             {data.map(({id, image, title, description}) => {

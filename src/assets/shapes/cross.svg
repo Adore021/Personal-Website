@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21.25 21.25">
+  <g id="BACKGROUND">
+    <g>
+      <rect x="8.13" y="-1.9" width="5" height="25.06" transform="translate(-4.4 10.63) rotate(-45)"/>
+      <rect x="-1.9" y="8.13" width="25.06" height="5" transform="translate(-4.4 10.63) rotate(-45)"/>
+    </g>
+  </g>
+</svg>

@@ -12,7 +12,7 @@ const Work = () => {
         setItems(updatedItems);
     }
   return (
-    <section className="work container section" id="work">
+    <section className="work container section" id="projects">
         <h2 className="section__title">Recent Projects</h2>
 
         <div className="work__filters">

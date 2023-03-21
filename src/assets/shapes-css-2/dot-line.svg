@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9.27 84.08">
+  <g id="BACKGROUND">
+    <g>
+      <path d="M4.63,9.27c2.56,0,4.63-2.08,4.63-4.63S7.19,0,4.63,0,0,2.08,0,4.63s2.08,4.63,4.63,4.63Z" style="fill: #bbb9ba;"/>
+      <circle cx="4.63" cy="23.34" r="4.63" transform="translate(-19.04 25.65) rotate(-84.35)" style="fill: #bbb9ba;"/>
+      <circle cx="4.63" cy="42.04" r="4.63" transform="translate(-37.66 42.51) rotate(-84.35)" style="fill: #bbb9ba;"/>
+      <circle cx="4.63" cy="60.74" r="4.63" transform="translate(-56.27 59.37) rotate(-84.35)" style="fill: #bbb9ba;"/>
+      <circle cx="4.63" cy="79.44" r="4.63" transform="translate(-74.88 76.23) rotate(-84.35)" style="fill: #bbb9ba;"/>
+    </g>
+  </g>
+</svg>

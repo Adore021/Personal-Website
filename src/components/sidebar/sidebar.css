@@ -2,7 +2,7 @@
     position: fixed;
     left: 0;
     top: 0;
-    background: var(--body-color);
+    background: var(--body-color-3);
     border-right: 1px solid rgba(0, 0, 0, 0.05);
     padding: 2.5rem;
     width: 110px;
@@ -22,17 +22,17 @@
 
 .nav__link {
     font-size: 1.5rem;
-    color: var(--title-color);
+    color: var(--title-color-2);
     font-weight: var(--font-bold);
     transition: 0.3s;
 }
 
 .nav__link:hover {
-    color: hsl(43, 100%, 68%);
+    color: var(--first-color);
 }
 
 .copyright {
-    color: hls(245, 15%, 65%);
+    color: var(--text-color-2);
     font-size: var(--small-font-size);
     transform: rotate(-180deg);
     writing-mode: vertical-rl;
@@ -45,8 +45,8 @@
     cursor: pointer;
     height: 40px;
     width: 45px;
-    background: var(--body-color);
-    border: 1px solid #e8dfec;
+    background: var(--body-color-2);
+    border: 1px solid var(--text-color-2);
     display: none;
     justify-content: center;
     align-items: center;

@@ -1,3 +1,7 @@
+.work {
+    margin-bottom: 3rem;
+}
+
 .work__filters {
     display: flex;
     align-items: center;
@@ -24,12 +28,12 @@
 .work__card {
     position: relative;
     overflow: hidden;
-    border-radius: var(--border-radius);
+    border-radius: 0.1rem;
     box-shadow: var(--shadow);
 }
 
 .work__mask {
-    background: #6c6ce5;
+    background: var(--body-color-2);
     position: absolute;
     left: 0;
     top: 0;
@@ -44,10 +48,9 @@
 }
 
 .work__category {
-    color: #fff;
-    background-color: var(--first-color);
-    border-bottom-left-radius: 0.98rem;
-    border-top-right-radius: 0.98rem;
+    color: var(--title-color-2);
+    background-color: var(--body-color-2);
+    border-radius: 0.1rem;
     position: absolute;
     top: 0;
     left: 1.5rem;
@@ -59,9 +62,9 @@
 }
 
 .work__title {
-    color: #fff;
+    color: var(--title-color-2);
     font-size: var(--h3-font-size);
-    margin: 0 0 0.98rem;
+    margin: 0 1.5rem;
     position: absolute;
     top: 3.75rem;
     transform: translateY(30px);
@@ -70,13 +73,13 @@
 }
 
 .work__button {
-    color: #fff;
+    color: var(--text-color-2);
     position: absolute;
     bottom: 1.5rem;
     left: 1.5rem;
     font-size: var(--h3-font-size);
     display: block;
-    background-color: #ffd12c;
+    background-color: var(--title-color-2);
     height: 40px;
     width: 40px;
     cursor: pointer;

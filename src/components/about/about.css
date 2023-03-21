@@ -4,13 +4,18 @@
 }
 
 .about__data {
-    background: var(--container-color);
-    box-shadow: var(--shadow);
+    padding: 1.5rem;
+    background: var(--body-color-2);
     border-radius: var(--border-radius);
     grid-template-columns: repeat(1, 1fr);
     column-gap: 1.875rem;
     align-items: flex-start;
     position: relative;
+}
+
+.text__highlight {
+    font-weight: 500;
+    color: var(--title-color-2);
 }
 
 .about__img {
@@ -24,6 +29,8 @@
 }
 
 .about__skills {
+    grid-template-columns: repeat(3, 1fr);
+    column-gap: 1.25rem;
     row-gap: 1.25rem;
 }
 
@@ -33,17 +40,18 @@
 }
 
 .skills__name {
+    margin-bottom: 10px;
     font-size: (--normal-font-size);
     font-weight: var(--font-medium);
 }
 
 .skills__bar, .skills__percentage{
     height: 7px;
-    border-radius: 0.25rem;
+    border-radius: 0.1rem;
 }
 
 .skills__bar {
-    background: #f1f1f1;
+    background: var(--text-color-2);
 }
 
 .skills__percentage {
@@ -51,18 +59,18 @@
 }
 
 .development {
-    width: 90%;
-    background: rgb(255, 209, 92);
-}
-
-.ui__design {
     width: 80%;
-    background: rgb(255, 76, 96);
+    background: #DCDCDD;
 }
 
-.photograph {
-    width: 60%;
-    background: rgb(108, 108, 299);
+.game__dev {
+    width: 90%;
+    background: #DCDCDD;
+}
+
+.mobile__dev {
+    width: 70%;
+    background: #DCDCDD;
 }
 
 .about__boxes {
@@ -82,7 +90,7 @@
 }
 
 .about__title {
-    font-size: 1.875rem;
+    font-size: 1.2rem;
 }
 
 @media screen and (max-width: 1024px) {
@@ -109,6 +117,12 @@
         row-gap: 0.5rem;
         text-align: center;
     }
+
+    .about__boxes {
+        justify-content: center;
+        grid-template-columns: repeat(3, 250px);
+        row-gap: 2rem;
+    }
 }
 
 @media screen and (max-width: 768px) {
@@ -123,6 +137,10 @@
     .about__data {
         grid-template-columns: 1fr;
         row-gap: 1.875rem;
+    }
+
+    .about__skills {
+        grid-template-columns: repeat(2, 1fr);
     }
 
     .about__boxes {
@@ -141,6 +159,10 @@
 @media screen and (max-width: 350px) {
     .about__container {
         grid-template-columns: 1fr;
+    }
+
+    .about__skills {
+        grid-template-columns: repeat(1, 1fr);
     }
 
     .about__boxes {

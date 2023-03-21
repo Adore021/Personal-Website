@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg 
+id="Layer_2" 
+data-name="Layer 2" 
+xmlns="http://www.w3.org/2000/svg" 
+viewBox="0 0 62.19 57.29">
+
+  <g id="BACKGROUND">
+    <g>
+      <rect y="46.23" width="1" height="11.06" style={{fill: "#5C5C5C"}}/>
+      <rect x="5.56" y="36.96" width="1" height="20.33" style={{fill: "#5C5C5C"}}/>
+      <rect x="11.12" y="26.69" width="1" height="30.6" style={{fill: "#5C5C5C"}}/>
+      <rect x="16.69" y="15.98" width="1" height="41.31" style={{fill: "#5C5C5C"}}/>
+      <rect x="22.25" y="7.13" width="1" height="50.15" style={{fill: "#5C5C5C"}}/>
+      <rect x="27.81" width="1" height="57.29" style={{fill: "#5C5C5C"}}/>
+      <rect x="33.38" width="1" height="57.29" style={{fill: "#5C5C5C"}}/>
+      <rect x="38.94" y="7.13" width="1" height="50.15" style={{fill: "#5C5C5C"}}/>
+      <rect x="44.5" y="15.98" width="1" height="41.31" style={{fill: "#5C5C5C"}}/>
+      <rect x="50.06" y="26.69" width="1" height="30.6" style={{fill: "#5C5C5C"}}/>
+      <rect x="55.63" y="36.96" width="1" height="20.33" style={{fill: "#5C5C5C"}}/>
+      <rect x="61.19" y="46.23" width="1" height="11.06" style={{fill: "#5C5C5C"}}/>
+    </g>
+  </g>
+</svg>
