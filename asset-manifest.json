@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Personal-Website/static/css/main.ed06c725.css",
+    "main.js": "/Personal-Website/static/js/main.3c7a673a.js",
+    "static/js/787.65a29def.chunk.js": "/Personal-Website/static/js/787.65a29def.chunk.js",
+    "static/media/Profile.jpg": "/Personal-Website/static/media/Profile.352f27fdfa89581ef142.jpg",
+    "static/media/work-4.svg": "/Personal-Website/static/media/work-4.b1e5c1341899ee00d86d6c613f593837.svg",
+    "static/media/work-3.svg": "/Personal-Website/static/media/work-3.f1d02dc63be36a2005f8d395ecb8b36c.svg",
+    "static/media/work-1.svg": "/Personal-Website/static/media/work-1.bebc0ee30ea8dd5325cfeb0fe8f2615b.svg",
+    "static/media/work-6.svg": "/Personal-Website/static/media/work-6.e53b868f21628c547fd12d76c5b599db.svg",
+    "static/media/Coding.svg": "/Personal-Website/static/media/Coding.a96b85f27a33f826a06ebddabd1a601b.svg",
+    "static/media/work-5.svg": "/Personal-Website/static/media/work-5.d7139045fa5cd7bea4b9807b31919a00.svg",
+    "static/media/avatar-2.svg": "/Personal-Website/static/media/avatar-2.dbaf15ff9b5d68a39d1b24521fb12640.svg",
+    "static/media/avatar-1.svg": "/Personal-Website/static/media/avatar-1.e18c937d0a33154687422e5da407f480.svg",
+    "static/media/Portfolio.svg": "/Personal-Website/static/media/Portfolio.071c81846bf60bce23754dbe4a7dc0a2.svg",
+    "static/media/Web-development.svg": "/Personal-Website/static/media/Web-development.443e49f72bccfbd3b3f8c6b05e8ab9ea.svg",
+    "static/media/work-2.svg": "/Personal-Website/static/media/work-2.2b1987b3b6f51b87b2538a61b31a43d4.svg",
+    "static/media/Web-design.svg": "/Personal-Website/static/media/Web-design.22b2b60dd5222e5501ebe703ec238773.svg",
+    "static/media/logo.svg": "/Personal-Website/static/media/logo.8c2fb23675dc34b2041044d6dd41e4e3.svg",
+    "static/media/Asset 5.svg": "/Personal-Website/static/media/Asset 5.790bcc5f6c3294f4cc33743ae5b85894.svg",
+    "static/media/dots-bg.svg": "/Personal-Website/static/media/dots-bg.34b5a13edb048e85faa3.svg",
+    "index.html": "/Personal-Website/index.html",
+    "static/media/HH-Logo-B-2.svg": "/Personal-Website/static/media/HH-Logo-B-2.b0f39c23097974cb1a92e4d622d8e5af.svg",
+    "main.ed06c725.css.map": "/Personal-Website/static/css/main.ed06c725.css.map",
+    "main.3c7a673a.js.map": "/Personal-Website/static/js/main.3c7a673a.js.map",
+    "787.65a29def.chunk.js.map": "/Personal-Website/static/js/787.65a29def.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed06c725.css",
+    "static/js/main.3c7a673a.js"
+  ]
+}
