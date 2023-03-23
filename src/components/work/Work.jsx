@@ -19,16 +19,16 @@ const Work = () => {
             <span className="work__item"onClick={() => setItems(Menu)}>Everything</span>
 
             <span className="work__item" onClick={() => 
-                filterItem("Creative")}>Creative</span>
+                filterItem("Creative")}>Web-Dev</span>
 
             <span className="work__item"onClick={() => 
-                filterItem("Art")}>Art</span>
+                filterItem("Art")}>Games</span>
                 
             <span className="work__item"onClick={() => 
-                filterItem("Design")}>Design</span>
+                filterItem("Design")}>Application</span>
 
             <span className="work__item"onClick={() => 
-                filterItem("Branding")}>Branding</span>
+                filterItem("Branding")}>Other</span>
         </div>
 
         <div className="work__container grid">
